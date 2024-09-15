@@ -10,6 +10,8 @@
 .idea
 .DS_Store
 .editorconfig
+.graphql-generated
+public/_graphql
 
 # Don't track anything that's compiled from the theme's src directory
 /themes/site/dist/

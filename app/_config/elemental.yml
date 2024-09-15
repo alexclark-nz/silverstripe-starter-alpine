@@ -1,7 +1,3 @@
-Page:
+App\Pages\ElementalPage:
   extensions:
     - DNADesign\Elemental\Extensions\ElementalPageExtension
-
-#App\Pages\HomePage:
-#  allowed_elements:
-#    - App\Elements\Masthead
